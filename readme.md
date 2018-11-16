@@ -10,7 +10,7 @@ results, they can export them into an excel file.
 The first page of Drug R+, which is observer in fgi.1, includes four parts,
 including Search, CDR, data sets, and database structure.
 
-![F:\\thesis\\DRUGR\\paper\\help\\first.tif](media/9b43b671799a6b1b60c913a4b7143af3.tiff)
+![1](https://user-images.githubusercontent.com/42937478/48646090-f79b9880-e9fc-11e8-9afe-61389ddf650d.jpg)
 
 Fig.1: The first page of Drug R+
 
@@ -31,7 +31,7 @@ which are relative to information retrieval, are permitted. In contrast, delete,
 update, insert, or any other operations which change the database are not
 allowed.
 
-![F:\\thesis\\DRUGR\\paper\\help\\search.tif](media/cf6588ce1b6aa0ebfa41188a8c7a24ea.tiff)
+![2](https://user-images.githubusercontent.com/42937478/48646125-19951b00-e9fd-11e8-966c-d1526ab4a4c2.jpg)
 
 Fig.2: The search section of Drug R+
 
@@ -58,7 +58,7 @@ results if they exist. In fig.3, CDR section of Drug R+ is shown. The results of
 fig.3 are relative to armodafinil which is used for treating excessive daytime
 sleeping.
 
-![F:\\thesis\\DRUGR\\paper\\help\\CDR.tif](media/0e82b785ad0c9b7b9e042189e6c3d8fc.tiff)
+![3](https://user-images.githubusercontent.com/42937478/48646150-329dcc00-e9fd-11e8-8bf4-19812957f978.jpg)
 
 Fig.3: CDR of Drug R+
 
@@ -84,9 +84,7 @@ reported. The mentioned datasets are:
 >   All of the mentioned proteins play main roles in a cell and have importance
 >   roles in drug design. In fig.4, the dataset section of Drug R+ is presented.
 
-![](media/6ad2465862e9ab85c73d800ed549644a.tiff)
-
->   F:\\thesis\\DRUGR\\paper\\help\\datasets.tif
+![4](https://user-images.githubusercontent.com/42937478/48646179-54974e80-e9fd-11e8-939d-3c7d460164a3.jpg)
 
 >   Fig.4: The datasets of Drug R+
 
@@ -115,9 +113,7 @@ reported. The mentioned datasets are:
 
 4.  Run python code for transferring data into their relevant tables and fields.
 
-![](media/dedcb0f5637f30a8e0512f3601d53cfd.tiff)
-
->   F:\\thesis\\DRUGR\\paper\\help\\struct.tif
+![5](https://user-images.githubusercontent.com/42937478/48646240-83152980-e9fd-11e8-93de-60b8f4ed1329.jpg)
 
 >   Fig.5: Structure files of Drug R+
 
